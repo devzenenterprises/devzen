@@ -1,21 +1,4 @@
-<<<<<<< HEAD
 User-agent: *
 Allow: /
 
 Sitemap: https://www.devzenenterprises.com/sitemap.xml
-=======
-User-agent: Googlebot
-Allow: /
-
-User-agent: Bingbot
-Allow: /
-
-User-agent: Twitterbot
-Allow: /
-
-User-agent: facebookexternalhit
-Allow: /
-
-User-agent: *
-Allow: /
->>>>>>> 08163322501f0b79e12805b5f27cedc563e99dd7

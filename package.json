@@ -74,11 +74,7 @@
     "@types/react-dom": "^18.3.7",
     "@vitejs/plugin-react-swc": "^3.11.0",
     "autoprefixer": "^10.4.21",
-<<<<<<< HEAD
     "eslint": "^10.0.0",
-=======
-    "eslint": "^9.39.3",
->>>>>>> 08163322501f0b79e12805b5f27cedc563e99dd7
     "eslint-plugin-react-hooks": "^5.2.0",
     "eslint-plugin-react-refresh": "^0.4.20",
     "gh-pages": "^6.3.0",
